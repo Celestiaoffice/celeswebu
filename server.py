@@ -1,0 +1,156 @@
+import json, re, os
+
+HTML = r"""<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Kitab Undang-Undang Celestia</title>
+<style>
+:root{--bg:#0a1020;--card:#121a30;--line:#25304f;--tx:#e8ecf7;--mut:#93a0c0;--ac:#e9805f;--ac2:#5aa0e8}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--tx);font-family:Georgia,serif;line-height:1.55}
+header{padding:28px 16px 12px;text-align:center;border-bottom:1px solid var(--line)}
+h1{margin:0;font-size:1.35rem;letter-spacing:.04em}
+.sub{color:var(--mut);font-size:.85rem;margin-top:4px;font-style:italic}
+main{max-width:760px;margin:0 auto;padding:14px}
+#q{width:100%;padding:13px 14px;font-size:1rem;border-radius:12px;border:1px solid var(--line);background:var(--card);color:var(--tx);outline:none}
+#q:focus{border-color:var(--ac2)}
+.info{color:var(--mut);font-size:.82rem;margin:8px 2px 14px}
+.bab{margin:22px 0 8px;color:var(--ac);font-size:.82rem;font-weight:bold;letter-spacing:.06em}
+.p{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:12px 14px;margin:10px 0}
+.p h3{margin:0 0 6px;font-size:.98rem}
+.no{display:inline-block;background:var(--ac);color:#1a0d08;border-radius:6px;padding:1px 8px;margin-right:6px;font-size:.85rem}
+.isi{white-space:pre-wrap;font-size:.93rem}
+mark{background:#f2c94c;color:#000;border-radius:3px;padding:0 2px}
+.empty{text-align:center;color:var(--mut);padding:30px 0}
+footer{text-align:center;color:var(--mut);font-size:.75rem;padding:24px 12px}
+</style>
+</head>
+<body>
+<header>
+<h1 id="judul">KITAB UNDANG-UNDANG CELESTIA</h1>
+<div class="sub">“Moralitas, Wibawa, Kehormatan”</div>
+</header>
+<main>
+<input id="q" type="search" placeholder="Cari, misalnya: tentang tkc, sanksi, kva, spam…" autocomplete="off">
+<div class="info" id="info"></div>
+<div id="out"></div>
+</main>
+<footer>Wilayah virtual fiksi · hanya berlaku di komunitas Celestia</footer>
+<script>
+const STOP=new Set("tentang yang dan di ke dari untuk apa itu ini pasal aturan soal mengenai kuc bagaimana cara dengan atau saya kita ada apakah adalah yaitu pada dalam".split(" "));
+const SYN={hp:["handphone","telepon","nomor"],tkc:["kewarganegaraan","nikc"],nikc:["tkc"],hukuman:["sanksi"],hukum:["sanksi"],kick:["dikeluarkan","mengeluarkan"],keluar:["dikeluarkan","kick"],ban:["ban"],nsfw:["18+","asusila"],bokep:["18+","nsfw"],bug:["serangan siber","crash"],hack:["serangan siber"],virus:["serangan siber"],spam:["spamming"],banding:["pembelaan"],bela:["pembelaan"],owner:["astro-imperator"],militer:["k.v.a"],kva:["k.v.a"],kopi:["hak cipta"],plagiat:["hak cipta"],fitnah:["pencemaran"],hoax:["informasi yang tidak benar"],hoaks:["informasi yang tidak benar"]};
+let DATA=null;
+const esc=s=>s.replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;");
+function fmt(s,terms){
+  s=esc(s);
+  for(const t of terms){
+    if(!t)continue;
+    const re=new RegExp("("+t.replace(/[.*+?^${}()|[\]\\]/g,"\\$&")+")","gi");
+    s=s.replace(re,"<mark>$1</mark>");
+  }
+  s=s.replace(/\*(.+?)\*/g,"<b>$1</b>").replace(/(^|[\s(])_(.+?)_(?=[\s).,;:]|$)/g,"$1<i>$2</i>");
+  return s;
+}
+function card(p,terms){
+  return `<div class="p" id="p-${p.no}"><h3><span class="no">Pasal ${p.no}</span>${fmt(p.judul,terms)}</h3><div class="isi">${fmt(p.isi,terms)}</div></div>`;
+}
+function search(q){
+  const toks=q.toLowerCase().split(/[^a-z0-9+.]+/).filter(t=>t&&!STOP.has(t));
+  if(!toks.length)return null;
+  const terms=[...new Set(toks.flatMap(t=>[t,...(SYN[t]||[])]))];
+  const res=[];
+  for(const b of DATA.bab)for(const p of b.pasal){
+    const T=p.judul.toLowerCase(),B=p.isi.toLowerCase(),H=b.judul.toLowerCase();
+    let sc=0;
+    for(const t of terms){
+      const w=toks.includes(t)?1:.6;
+      if(T.includes(t))sc+=5*w;
+      if(H.includes(t))sc+=2*w;
+      sc+=Math.min(B.split(t).length-1,6)*w;
+    }
+    if(sc>0)res.push({p,sc});
+  }
+  res.sort((a,b)=>b.sc-a.sc);
+  return {res:res.slice(0,12),terms};
+}
+function render(){
+  const q=document.getElementById("q").value.trim(),out=document.getElementById("out"),info=document.getElementById("info");
+  const r=q?search(q):null;
+  if(r){
+    info.textContent=r.res.length?`${r.res.length} pasal terkait, diurutkan dari yang paling relevan`:"";
+    out.innerHTML=r.res.length?r.res.map(x=>card(x.p,r.terms)).join(""):'<div class="empty">Tidak ada pasal yang cocok. Coba kata kunci lain.</div>';
+    return;
+  }
+  const n=DATA.bab.reduce((a,b)=>a+b.pasal.length,0);
+  info.textContent=`${DATA.versi} · ${n} pasal`;
+  out.innerHTML=DATA.bab.map(b=>`<div class="bab">${esc(b.judul)}</div>`+b.pasal.map(p=>card(p,[])).join("")).join("");
+}
+fetch("/api/kuc").then(r=>r.json()).then(d=>{
+  DATA=d;
+  document.getElementById("judul").textContent="KITAB UNDANG-UNDANG CELESTIA · "+d.versi;
+  document.getElementById("q").addEventListener("input",render);
+  render();
+  if(location.hash){const e=document.getElementById(location.hash.slice(1));if(e)e.scrollIntoView();}
+}).catch(()=>{document.getElementById("out").innerHTML='<div class="empty">Gagal memuat KUC.</div>';});
+</script>
+</body>
+</html>
+"""
+from http.server import ThreadingHTTPServer, BaseHTTPRequestHandler
+
+BASE = os.path.dirname(os.path.abspath(__file__))
+PORT = 8080
+
+def parse_kuc():
+    text = open(os.path.join(BASE, "kuc.txt"), encoding="utf-8").read()
+    ver = re.search(r"_(P\.K\.\d+)_", text.splitlines()[0])
+    data = {"versi": ver.group(1) if ver else "", "bab": []}
+    bab = pasal = None
+    for line in text.splitlines()[1:]:
+        m_bab = re.match(r"^\*—+\s*(BAB .+?)\s*—+\*$", line.strip())
+        m_ps = re.match(r"^\*Pasal (\d+\.\d+) \((.+?)\):\*\s*(.*)$", line.strip())
+        if m_bab:
+            bab = {"judul": m_bab.group(1), "pasal": []}
+            data["bab"].append(bab)
+            pasal = None
+        elif m_ps and bab is not None:
+            pasal = {"no": m_ps.group(1), "judul": m_ps.group(2), "isi": m_ps.group(3)}
+            bab["pasal"].append(pasal)
+        elif pasal is not None:
+            pasal["isi"] += "\n" + line
+    for b in data["bab"]:
+        for p in b["pasal"]:
+            p["isi"] = p["isi"].strip()
+    return data
+
+class H(BaseHTTPRequestHandler):
+    def send(self, code, body, ctype):
+        b = body.encode("utf-8")
+        self.send_response(code)
+        self.send_header("Content-Type", ctype + "; charset=utf-8")
+        self.send_header("Content-Length", str(len(b)))
+        self.send_header("Cache-Control", "no-store")
+        self.end_headers()
+        self.wfile.write(b)
+
+    def do_GET(self):
+        path = self.path.split("?")[0]
+        if path in ("/", "/index.html"):
+            self.send(200, HTML, "text/html")
+        elif path == "/api/kuc":
+            try:
+                self.send(200, json.dumps(parse_kuc(), ensure_ascii=False), "application/json")
+            except Exception as e:
+                self.send(500, json.dumps({"error": str(e)}), "application/json")
+        else:
+            self.send(404, "Tidak ditemukan", "text/plain")
+
+    def log_message(self, *a):
+        pass
+
+if __name__ == "__main__":
+    print(f"KUC Celestia berjalan di http://0.0.0.0:{PORT}")
+    ThreadingHTTPServer(("0.0.0.0", PORT), H).serve_forever()
+
