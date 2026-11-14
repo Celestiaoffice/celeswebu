@@ -4,124 +4,115 @@
 
 *—————— BAB I: ETIKA KOMUNIKASI DAN INFORMASI ——————*
 
-*Pasal 1.1 (Penyebaran Informasi yang Tidak Benar):* Dilarang keras menyebarkan informasi, berita, atau kabar yang tidak benar dan tidak dapat dipertanggungjawabkan keabsahannya di wilayah Celestia.
+*Pasal 1.1 (Penyebaran Informasi yang Tidak Benar):* Dilarang menyebarkan informasi, berita, atau kabar yang tidak benar dan tidak dapat dipertanggungjawabkan di wilayah Celestia.
 _Sanksi Maksimal: Tingkat 2_
 
-*Pasal 1.2 (Ujaran Kebencian / SARA):* Dilarang keras mengeluarkan pernyataan atau menyebarkan konten yang mengandung unsur kebencian, merendahkan, atau memicu permusuhan antarwarga berdasarkan SARA.
+*Pasal 1.2 (Ujaran Kebencian / SARA):* Dilarang menyebarkan pernyataan atau konten yang mengandung kebencian, merendahkan, atau memicu permusuhan berdasarkan SARA.
 _Sanksi Maksimal: Tingkat 2_
 
-*Pasal 1.3 (Pencemaran Nama Baik & Etika Kepatuhan Bahasa):* Dilarang keras menyerang kehormatan, memfitnah, atau mencemarkan nama baik siapa pun melalui tuduhan yang tidak dapat dibuktikan kebenarannya. Larangan ini mencakup penggunaan sindiran halus, kalimat sarkasme, atau pemakaian kata kiasan yang secara nyata bertujuan menjatuhkan wibawa orang lain.
+*Pasal 1.3 (Pencemaran Nama Baik):* Dilarang menyerang kehormatan, memfitnah, atau mencemarkan nama baik siapa pun melalui tuduhan yang tidak dapat dibuktikan. Larangan ini mencakup sindiran, sarkasme, atau kiasan yang jelas bertujuan menjatuhkan orang lain.
 _Sanksi Maksimal: Tingkat 2_
 
 *—————— BAB II: STABILITAS DAN MORALITAS ——————*
 
-*Pasal 2.1 (Menjaga Stabilitas dari Drama Luar):* Dilarang keras membawa konflik, perselisihan, atau drama yang terjadi di luar ekosistem komunitas asing ke dalam wilayah Negara Celestia. Yurisdiksi pasal ini dikunci dan hanya berlaku penuh untuk penanganan kegaduhan di dalam wilayah domestik Celestia.
+*Pasal 2.1 (Larangan Membawa Drama Luar):* Dilarang membawa konflik atau drama dari komunitas lain ke dalam wilayah Celestia. Pasal ini hanya berlaku untuk kegaduhan di dalam wilayah Celestia.
 _Sanksi Maksimal: Tingkat 2_
 
-*Pasal 2.2 (Larangan Konten 18+ / NSFW):* Dilarang keras membahas, memicu obrolan, ataupun mengirimkan berkas media yang terkait dengan konten dewasa, asusila, dan NSFW (18+). Regulasi ini memiliki kekuatan hukum ekstrateritorial; pelanggaran yang dilakukan oleh warga Celestia di luar wilayah publik formal (seperti melalui Direct Message / DM privat) namun berdampak langsung pada rusaknya moralitas internal, tetap tunduk pada pasal ini. Pelanggaran di wilayah publik dapat langsung ditindak dengan Tindakan Pengamanan Ringan oleh K.V.A sebagaimana diatur dalam Pasal 6.4, tanpa mengurangi proses sanksi oleh PLHK.
+*Pasal 2.2 (Larangan Konten 18+ / NSFW):* Dilarang membahas, memicu obrolan, atau mengirim media yang berisi konten dewasa, asusila, atau NSFW (18+). Pasal ini juga berlaku untuk pelanggaran di luar wilayah publik (misalnya DM privat) yang berdampak langsung pada moralitas internal komunitas. Pelanggaran di wilayah publik dapat langsung ditindak dengan Pengamanan Ringan oleh K.V.A (Pasal 6.4), tanpa mengurangi proses sanksi oleh PLHK.
 _Sanksi Maksimal: Tingkat 3_
 
 *—————— BAB III: KEAMANAN NASIONAL ——————*
 
-*Pasal 3.1 (Pengkhianatan Negara & Pembocoran Dokumen):* Segala bentuk tindakan yang bertujuan meruntuhkan kedaulatan Celestia atau bersekongkol dengan entitas asing untuk merugikan Celestia dikategorikan sebagai makar. Sanksi ini berlaku mutlak bagi pembocoran dokumen rahasia negara ke pihak luar, yang kriterianya meliputi: berkas instruksi internal komando, arsip data internal PLHK dan K.V.A yang belum dipublikasikan, serta dokumen lain yang ditetapkan rahasia oleh orang-orang penting.
+*Pasal 3.1 (Pengkhianatan Negara & Pembocoran Dokumen):* Tindakan yang bertujuan meruntuhkan kedaulatan Celestia atau bersekongkol dengan pihak luar untuk merugikan Celestia dikategorikan sebagai makar. Termasuk di dalamnya pembocoran dokumen rahasia ke pihak luar, dan dokumen lain yang ditetapkan rahasia oleh petinggi.
 _Sanksi Mutlak: Tingkat 3_
 
-*Pasal 3.2 (Serangan Siber dan Pengiriman Bug):* Dilarang keras mengirimkan, menyebarkan, atau menjalankan berkas, teks, tautan, atau kode yang dirancang untuk merusak, membuat crash, melumpuhkan, atau mengganggu perangkat maupun grup di wilayah Celestia (termasuk bug, virus, tautan berbahaya, dan raid massal). Pelanggaran ini ditangani dengan Tindakan Pengamanan Darurat oleh K.V.A sebagaimana diatur dalam Pasal 6.4.
+*Pasal 3.2 (Serangan Siber dan Pengiriman Bug):* Dilarang mengirim, menyebarkan, atau menjalankan berkas, teks, tautan, atau kode yang dirancang untuk merusak, membuat crash, atau mengganggu perangkat maupun grup di wilayah Celestia (termasuk bug, virus, tautan berbahaya, dan raid massal). Ditangani dengan Pengamanan Darurat oleh K.V.A (Pasal 6.4).
 _Sanksi Maksimal: Tingkat 3_
 
 *—————— BAB IV: PERLINDUNGAN DAN KETERTIBAN INTERNAL ——————*
 
-*Pasal 4.1 (Pemalsuan Identitas / Penyamaran Akun):* Dilarang keras dengan sengaja meniru nama, menggunakan foto profil, atau menyamar sebagai orang-orang penting maupun warga lain demi kepentingan pribadi atau untuk mengelabui orang lain. Seluruh sanksi hukum yang dijatuhkan pada akun utama secara otomatis mengikat seluruh akun alternatif (kloning/alts) milik individu tersebut.
+*Pasal 4.1 (Pemalsuan Identitas / Penyamaran Akun):* Dilarang meniru nama, memakai foto profil, atau menyamar sebagai petinggi maupun warga lain untuk kepentingan pribadi atau mengelabui orang lain. Sanksi yang dijatuhkan pada akun utama otomatis mengikat seluruh akun alternatif (alts) milik orang yang sama.
 _Sanksi Maksimal: Tingkat 3_
 
-*Pasal 4.2 (Pencegahan Teror dan Provokasi):* Dilarang keras melakukan tindakan menakut-nakuti, mengirimkan pesan ancaman kekerasan, teror komunikasi, serta menghasut warga lain di muka publik baik secara lisan maupun tulisan untuk melanggar aturan negara. Klausul ini menjangkau segala bentuk tindakan intimidasi di ranah privat (DM) sesama warga yang menimbulkan kegaduhan nyata pada psikologis internal komunitas.
+*Pasal 4.2 (Teror dan Provokasi):* Dilarang menakut-nakuti, mengirim ancaman kekerasan, meneror, atau menghasut warga lain di depan umum untuk melanggar aturan. Larangan ini juga mencakup intimidasi di DM sesama warga yang menimbulkan kegaduhan nyata dalam komunitas.
 _Sanksi Maksimal: Tingkat 3_
 
-*Pasal 4.3 (Pembocoran Privasi Warga):* Dilarang keras menyebarkan tangkapan layar (screenshot) obrolan privat (DM) atau informasi pribadi warga lain ke dalam grup publik tanpa izin tertulis dari pihak yang bersangkutan. Hak atas perlindungan privasi dan sanksi dari pasal ini hanya berlaku secara eksklusif untuk melindungi warga negara resmi yang telah memiliki TKC sah.
+*Pasal 4.3 (Pembocoran Privasi Warga):* Dilarang menyebarkan tangkapan layar obrolan privat (DM) atau informasi pribadi warga lain ke grup publik tanpa izin tertulis dari yang bersangkutan. Perlindungan pasal ini hanya berlaku bagi pemegang TKC sah.
 _Sanksi Maksimal: Tingkat 2_
 
-*Pasal 4.4 (Larangan Spamming & Banjir Teks):* Dilarang keras melakukan tindakan spamming dalam bentuk pengiriman pesan berulang secara masif, teks kosong, pengulangan media (stiker/gambar/video) tanpa urgensi yang jelas, serta penggunaan bot kiriman luar yang mengganggu lalu lintas komunikasi di wilayah publik. Tindakan ini dapat langsung ditangani oleh K.V.A melalui Tindakan Pengamanan sesuai tingkat gangguannya (Pasal 6.4), demi kestabilan sistem.
+*Pasal 4.4 (Spamming):* Dilarang mengirim pesan berulang secara masif, teks kosong, atau media (stiker/gambar/video) berulang tanpa alasan jelas, serta memakai bot kiriman luar yang mengganggu komunikasi di wilayah publik. K.V.A dapat langsung melakukan Tindakan Pengamanan sesuai tingkat gangguan (Pasal 6.4).
 _Sanksi Maksimal: Tingkat 2; Tingkat 3 apabila berupa bug atau serangan siber (Pasal 3.2)_
 
-*—————— BAB V: PERLINDUNGAN KARYA INTELEKTUAL ——————*
+*—————— BAB V: PERLINDUNGAN KARYA ——————*
 
-*Pasal 5.1 (Hak Cipta dan Orisinalitas Buah Pikiran):* Demi menjaga kehormatan hasil pemikiran para bangsawan, dilarang keras menyalin, meniru, mengakui, atau menyebarluaskan karya milik warga lain tanpa izin dan atribusi yang sah. Perlindungan hukum ini mutlak mencakup:
+*Pasal 5.1 (Hak Cipta dan Orisinalitas):* Dilarang menyalin, meniru, mengaku-aku, atau menyebarkan karya warga lain tanpa izin dan atribusi yang sah. Perlindungan ini mencakup:
 
-- *Sastra Puitis:* Segala bentuk narasi puitis dan karya sastra filosofis orisinal.
+- *Sastra:* narasi puitis dan karya sastra orisinal.
 
-- *Draf Kebijakan:* Lembar dokumen konstitusi, usulan regulasi, atau draf tata kelola sipil.
+- *Draf Kebijakan:* dokumen konstitusi, usulan regulasi, atau draf tata kelola.
 
-- *Ide Struktural:* Gagasan murni dan konsep inovasi strategis yang dikemukakan dalam forum resmi.
+- *Ide Struktural:* gagasan dan konsep inovasi yang dikemukakan dalam forum resmi.
 
-_Sanksi Maksimal: Tingkat 2, disertai penghapusan karya hasil salinan serta kewajiban pelaku mengakui dan mencantumkan atribusi kepada pemilik asli karya_
+_Sanksi Maksimal: Tingkat 2, disertai penghapusan karya salinan dan kewajiban pelaku mencantumkan atribusi kepada pemilik asli_
 
 *—————— BAB VI: HUKUM ACARA DAN PENEGAKAN HUKUM ——————*
 
-*Pasal 6.1 (Asas Penilaian Hukum & Hak Bela Diri):* Penegakan hukum atas seluruh pasal di dalam KUC didasarkan pada asas keadilan nyata, di mana hakim atau orang-orang penting tidak hanya melihat pembelaan tertulis secara harfiah, melainkan melihat niat nyata (mens rea) serta dampak kegaduhan yang ditimbulkan. Setiap warga yang dituduh melanggar pasal berhak mendapatkan forum pembelaan diri yang sah sebelum sanksi resmi dijatuhkan oleh otoritas pusat, dengan ketentuan jendela waktu respons sebagai berikut:
+*Pasal 6.1 (Penilaian Hukum & Hak Pembelaan):* Penegakan hukum didasarkan pada keadilan nyata: hakim atau petinggi menilai niat (mens rea) dan dampak kegaduhan, bukan hanya bunyi pembelaan tertulis. Setiap warga yang dituduh berhak atas forum pembelaan yang sah sebelum sanksi dijatuhkan, dengan batas waktu:
 
-- *Pemegang TKC Sah (Prioritas Utama):* Diberikan hak penuh untuk mempersiapkan bukti dan melakukan pembelaan diri di dalam forum selama 7 hari sejak tuntutan resmi dilayangkan.
+- *Pemegang TKC Sah:* 7 hari sejak tuntutan resmi dilayangkan.
 
-- *Warga Non-TKC / Pendatang (Prioritas Rendah):* Hanya diberikan jendela waktu respons terbatas selama 3 hari sejak notifikasi resmi dari fungsionaris penegak hukum terkirim. Jika dalam 3 hari tidak ada respons, hak pembelaan dianggap hangus dan eksekusi sanksi dijatuhkan mutlak.
+- *Non-TKC / Pendatang:* 3 hari sejak notifikasi resmi terkirim. Jika tidak ada respons, hak pembelaan hangus dan sanksi langsung dijatuhkan.
 
-*Pasal 6.2 (Daluwarsa Tuntutan Kasus):* Segala bentuk pelaporan atau tuntutan hukum atas pelanggaran yang tertulis di dalam KUC dinyatakan kedaluwarsa dan tidak dapat diproses jika telah melewati batas waktu 7 hari sejak peristiwa tersebut terjadi atau sejak barang bukti utama ditemukan di muka publik. Untuk perkara yang berawal dari Tindakan Pengamanan K.V.A, batas 7 hari dihitung sejak laporan resmi K.V.A diterima PLHK. Pelanggaran Pasal 3.1 dan 3.2 tidak mengenal daluwarsa.
+*Pasal 6.2 (Daluwarsa Tuntutan):* Laporan atau tuntutan atas pelanggaran di KUC tidak dapat diproses jika lewat 7 hari sejak peristiwa terjadi atau sejak bukti utama ditemukan di muka publik. Untuk perkara yang berawal dari Tindakan Pengamanan K.V.A, 7 hari dihitung sejak laporan K.V.A diterima PLHK. Pelanggaran Pasal 3.1 dan 3.2 tidak mengenal daluwarsa.
 
 *Pasal 6.3 (Tingkatan Sanksi):* Sanksi yang dapat dijatuhkan PLHK terdiri atas tiga tingkat:
 
 1. *Tingkat 1: Teguran.* Peringatan resmi yang dicatat.
-2. *Tingkat 2: Ban Sementara.* Pelaku dilarang berada di wilayah Celestia untuk jangka waktu tertentu yang ditetapkan dalam putusan, antara 3 sampai 14 hari.
-3. *Tingkat 3: Kick dari Komunitas.* Pelaku dikeluarkan dari komunitas dan TKC miliknya dinyatakan dicabut.
+2. *Tingkat 2: Ban Sementara.* Dilarang berada di wilayah Celestia selama 3 sampai 14 hari sesuai putusan.
+3. *Tingkat 3: Kick dari Komunitas.* Dikeluarkan dari komunitas dan TKC dicabut.
 
-Sanksi hanya dapat dijatuhkan oleh PLHK melalui keputusan petinggi PLHK, dan tidak boleh melebihi sanksi maksimal yang tertulis pada pasal yang dilanggar.
+Sanksi hanya dapat dijatuhkan PLHK melalui keputusan petingginya, dan tidak boleh melebihi sanksi maksimal pada pasal yang dilanggar.
 
-*Pasal 6.4 (Tindakan Pengamanan K.V.A):* K.V.A sebagai lembaga keamanan dan pertahanan Celestia berwenang melakukan Tindakan Pengamanan untuk memulihkan keamanan wilayah, baik dari ancaman siber, konflik sosial antarwarga, maupun ancaman dari luar. Tindakan Pengamanan *bukan sanksi* dan tidak menggantikan proses PLHK. Prinsipnya: _K.V.A mengamankan, PLHK menghukum._ Tindakan Pengamanan terdiri atas dua tingkat:
+*Pasal 6.4 (Tindakan Pengamanan K.V.A):* K.V.A berwenang melakukan Tindakan Pengamanan untuk memulihkan keamanan wilayah dari ancaman siber, konflik antarwarga, maupun ancaman luar. Tindakan Pengamanan *bukan sanksi* dan tidak menggantikan proses PLHK: _K.V.A mengamankan, PLHK menghukum._ Terdiri atas dua tingkat:
 
-1. *Pengamanan Ringan (Penertiban):* untuk gangguan yang meresahkan warga, misalnya pengiriman foto/video 18+, spam, atau keributan. Petugas K.V.A menghapus pesan terkait dan *wajib* mengumpulkan bukti (tangkapan layar yang memuat pelaku, isi, dan waktu) sebelum penghapusan.
-2. *Pengamanan Darurat (Penetralan Ancaman):* untuk ancaman serius seperti bug, serangan siber, atau raid (Pasal 3.2). Petugas K.V.A berwenang *langsung mengeluarkan (kick) pelaku seketika tanpa menunggu perintah*, lalu melapor kepada petinggi K.V.A setelah ancaman disingkirkan.
+1. *Pengamanan Ringan (Penertiban):* untuk gangguan yang meresahkan, misalnya foto/video 18+, spam, atau keributan. Petugas menghapus pesan terkait dan *wajib* mengumpulkan bukti (tangkapan layar yang memuat pelaku, isi, dan waktu) sebelum menghapus.
+2. *Pengamanan Darurat (Penetralan Ancaman):* untuk ancaman serius seperti bug, serangan siber, atau raid (Pasal 3.2). Petugas berwenang *langsung mengeluarkan (kick) pelaku tanpa menunggu perintah*, lalu melapor kepada petinggi K.V.A setelah ancaman disingkirkan.
 
-Batas wewenang K.V.A: petugas tidak boleh memberikan teguran, ban, atau hukuman lain terhadap pelaku, kecuali atas perintah petinggi K.V.A.
 
-*Pasal 6.5 (Penyerahan dan Penyelidikan oleh PLHK):* Setelah Tindakan Pengamanan, petinggi K.V.A menyerahkan laporan dan bukti kepada PLHK. Laporan wajib diserahkan paling lambat 24 jam setelah tindakan. PLHK *wajib* melakukan penyelidikan terlebih dahulu dan tidak ada sanksi yang dijatuhkan semata-mata karena Tindakan Pengamanan. Penyelidikan diselesaikan paling lama 7 hari dan tidak melampaui jendela pembelaan pada Pasal 6.1. Pelaku yang telah dikeluarkan oleh K.V.A berhak menyampaikan pembelaan melalui pesan pribadi dengan perwakilan PLHK.
+*Pasal 6.5 (Penyelidikan dan Pemulihan Pasca Pengamanan):* K.V.A menyerahkan laporan dan bukti kepada PLHK paling lambat 24 jam setelah tindakan. PLHK *wajib* menyelidiki terlebih dahulu; tidak ada sanksi yang dijatuhkan semata-mata karena Tindakan Pengamanan. Penyelidikan selesai paling lama 7 hari dan tidak melampaui jendela pembelaan Pasal 6.1. Pelaku yang telah di-kick berhak membela diri lewat pesan pribadi dengan perwakilan PLHK.
 
-*Pasal 6.6 (Status dan Pemulihan Pasca Pengamanan):* Pengeluaran (kick) oleh K.V.A bersifat sementara sampai PLHK menetapkan putusan. Apabila PLHK memutuskan pelaku *tidak bersalah* atau Tindakan Pengamanan terbukti keliru, pelaku diundang kembali ke komunitas dan kejadian dicatat sebagai kekeliruan tindakan. Apabila terbukti bersalah, PLHK menjatuhkan sanksi sesuai Pasal 6.3.
+Kick oleh K.V.A bersifat sementara sampai PLHK memutuskan. Jika pelaku *tidak bersalah* atau tindakan terbukti keliru, pelaku diundang kembali dan kejadian dicatat sebagai kekeliruan tindakan. Jika bersalah, PLHK menjatuhkan sanksi sesuai Pasal 6.3.
 
-*Pasal 6.7 (Laporan K.V.A):* Setiap Tindakan Pengamanan wajib dilaporkan secara tertulis dengan format singkat: (1) identitas pelaku, (2) kejadian, (3) bukti, (4) tindakan yang diambil, (5) waktu. Tindakan Pengamanan tanpa bukti atau tanpa laporan, serta tindakan yang melampaui wewenang pada Pasal 6.4, dianggap pelanggaran disiplin internal K.V.A. dan dikenai sanksi disiplin oleh petinggi K.V.A: Tingkat 1 berupa teguran, Tingkat 2 berupa tidak diizinkan beroperasi sementara, dan Tingkat 3 berupa dikeluarkan dari K.V.A.
+*Pasal 6.6 (Laporan K.V.A):* Setiap Tindakan Pengamanan wajib dilaporkan tertulis dengan format singkat: (1) identitas pelaku, (2) kejadian, (3) bukti, (4) tindakan, (5) waktu. Tindakan tanpa bukti atau laporan, atau yang melampaui wewenang Pasal 6.4, dianggap pelanggaran disiplin internal dan dikenai sanksi oleh petinggi K.V.A: Tingkat 1 teguran, Tingkat 2 tidak diizinkan beroperasi sementara, Tingkat 3 dikeluarkan dari K.V.A.
 
-*—————— BAB VII: KEBIJAKAN KEWARGANEGARAAN (TKC) ——————*
+*—————— BAB VII: KEWARGANEGARAAN (TKC) ——————*
 
-*Pasal 7.1 (Pengertian, Fungsi, dan Manfaat Mutlak TKC):* Tanda Kewarganegaraan Celestia (TKC) adalah identitas tertinggi dan sah yang berlaku di Negara Kota Celestia. Kepemilikan identitas ini membawa manfaat esensial bagi warga itu sendiri, sekaligus berfungsi sebagai kunci utama yang membuka potensi penuh untuk bergabung, berpartisipasi aktif, serta mengakses seluruh sektor, lembaga, proteksi privasi, dan hak istimewa di dalam ekosistem Celestia secara menyeluruh.
+*Pasal 7.1 (Pengertian TKC):* Tanda Kewarganegaraan Celestia (TKC) adalah identitas resmi warga Celestia. Beberapa ketentuan KUC hanya berlaku bagi pemegang TKC sah, seperti perlindungan privasi (Pasal 4.3), waktu pembelaan (Pasal 6.1), dan pengajuan inisiatif (Pasal 8.1).
 
-*Pasal 7.2 (Syarat Perolehan Jalur Reguler):* Bagi warga baru atau pendatang, pengajuan kepemilikan TKC secara sah dapat langsung dilakukan sejak hari pertama memasuki lingkungan wilayah Celestia, dengan wajib memenuhi parameter kedinasan berikut:
+*Pasal 7.2 (Perolehan TKC):* Warga baru dapat mengajukan TKC sejak hari pertama memasuki Celestia dengan menyelesaikan prosedur verifikasi identitas dan administrasi yang ditetapkan fungsionaris berwenang.
 
-- Wajib mengikuti dan menyelesaikan seluruh rangkaian prosedur verifikasi identitas serta pengisian administrasi yang telah ditetapkan oleh jajaran fungsionaris dan pihak berwenang.
-
-*Pasal 7.3 (Isi TKC):* TKC diterbitkan dalam bentuk gambar desain dan memuat data berikut:
+*Pasal 7.3 (Isi TKC):* TKC diterbitkan dalam bentuk gambar desain dan memuat:
 
 1. *NIKC:* Nomor Induk Kewarganegaraan Celestia, unik untuk setiap warga.
-2. *Nama:* nama tokoh atau nama panggilan warga di Celestia.
-3. *Jenis Kelamin:* Laki-Laki atau Perempuan, sesuai identitas tokoh warga.
-4. *No. HP Terdaftar:* nomor handphone milik warga yang terdaftar dan terhubung dengan data TKC serta informasi pribadinya. Warga yang memiliki lebih dari satu nomor dengan pemilik yang sama dicantumkan seluruhnya.
-5. *Status:* kedudukan baku warga di Celestia, terdiri atas empat jenis: *Warga* (pemegang TKC sah), *Warga Kehormatan* (warga yang ditetapkan oleh orang-orang penting karena jasanya), *Petinggi* (jajaran petinggi PLHK dan K.V.A), dan *Astro-Imperator* (Owner Celestia).
-6. *Jabatan:* nama jabatan resmi yang dipegang warga tersebut (misalnya Hakim Pusat), atau tanda strip (-) apabila tidak menjabat.
-7. *Afiliasi:* lembaga atau komunitas tempat warga bernaung, yaitu PLHK, K.V.A, komunitas hasil Inkubasi Aspirasi Warga, atau Independen.
+2. *Nama:* nama tokoh atau nama panggilan warga.
+3. *Jenis Kelamin:* Laki-Laki atau Perempuan, sesuai identitas tokoh.
+4. *No. HP Terdaftar:* nomor handphone warga yang terhubung dengan data TKC. Jika memiliki lebih dari satu nomor, seluruhnya dicantumkan.
+5. *Status:* *Warga* (pemegang TKC sah), *Warga Kehormatan* (ditetapkan petinggi karena jasanya), *Petinggi* (jajaran PLHK dan K.V.A), atau *Astro-Imperator* (Owner Celestia).
+6. *Jabatan:* jabatan resmi warga (misalnya Hakim Pusat), atau tanda strip (-) jika tidak menjabat.
+7. *Afiliasi:* PLHK, K.V.A, komunitas hasil Inkubasi Aspirasi Warga, atau Independen.
 8. *Tanggal Terbit:* tanggal TKC diberikan.
-9. *Masa Berlaku:* berlaku selama kewarganegaraan tidak dicabut.
+9. *Masa Berlaku:* selama kewarganegaraan tidak dicabut.
 10. *Diterbitkan Oleh:* pejabat atau lembaga penerbit.
 11. *Kode QR:* tanda keaslian yang terhubung dengan data negara.
 
-Data pribadi dunia nyata seperti umur, nama asli, dan alamat tidak dimuat dalam TKC.
-
-*Pasal 7.4 (Tanggung Jawab Pemegang TKC):* TKC diberikan kepada warga dalam bentuk gambar desain. Pemegang TKC bertanggung jawab penuh atas penyimpanan dan penyebarannya. Kerugian akibat TKC yang disebarluaskan oleh pemegangnya sendiri menjadi tanggung jawab pemegang tersebut, tanpa mengurangi sanksi bagi pelaku peniruan sebagaimana diatur dalam Pasal 4.1. TKC dinyatakan dicabut apabila pemegangnya dijatuhi sanksi Tingkat 3.
+*Pasal 7.4 (Tanggung Jawab Pemegang TKC):* Pemegang TKC bertanggung jawab atas penyimpanan dan penyebaran TKC miliknya. Kerugian akibat TKC yang disebarkan sendiri oleh pemegangnya menjadi tanggung jawab pemegang, tanpa mengurangi sanksi bagi pelaku peniruan (Pasal 4.1). TKC dicabut apabila pemegangnya dijatuhi sanksi Tingkat 3.
 
 *—————— BAB VIII: INKUBASI ASPIRASI WARGA ——————*
 
-*Pasal 8.1 (Pengajuan Inisiatif):* Warga pemegang TKC yang memiliki inisiatif atau ide kreatif, seperti membentuk grup filsafat atau komunitas hobi, dapat mengajukannya kepada PLHK.
-
-*Pasal 8.2 (Pembahasan dan Pengakuan):* Setiap pengajuan dibahas terlebih dahulu dalam forum petinggi Celestia. Pengajuan yang disetujui diberi pengakuan resmi sebagai bagian dari ekosistem Celestia. Komunitas yang diakui wajib tunduk pada KUC.
+*Pasal 8.1 (Pengajuan dan Pengakuan Inisiatif):* Pemegang TKC yang memiliki inisiatif, seperti membentuk grup filsafat atau komunitas hobi, dapat mengajukannya kepada PLHK. Pengajuan dibahas dalam forum petinggi, dan yang disetujui diakui resmi sebagai bagian dari Celestia. Komunitas yang diakui wajib tunduk pada KUC.
 
 *—————— BAB IX: KETENTUAN PENUTUP & STATUS HUKUM ——————*
 
 *Pasal 9.1 (Penegasan Status Negara Virtual Fiksi):* Negara Kota Celestia beserta seluruh perangkatnya, termasuk Kitab Undang-Undang Celestia (KUC), PLHK, dan K.V.A, adalah sebuah bentuk entitas Negara Virtual yang bersifat Fiksi, Kreatif, dan berbasis Komunitas Virtual (Roleplay).
 
 *Pasal 9.2 (Batasan Yurisdiksi Nyata):* Seluruh dokumen hukum, pangkat, struktur pemerintahan, dan sanksi yang tertulis di dalam KUC ini murni bersifat internal-fiktif dan hanya berlaku untuk mengatur keteraturan interaksi di dalam ruang komunitas virtual Celestia. Dokumen ini tidak memiliki keterkaitan, tidak berniat meniru, dan tunduk sepenuhnya di bawah hukum konstitusi dunia nyata yang sah di Republik Indonesia.
-
-*Pasal 9.3 (Perubahan Struktur Lembaga):* The Noble Academy (TNA) dan The Celestial Patriciate (TCP) dihapus. Fungsi tata kelola sipil dan pelayanan warga yang sebelumnya dipegang TCP dilebur di bawah wewenang PLHK. Seluruh rujukan terhadap TNA dan TCP dalam dokumen atau aturan lain dinyatakan tidak berlaku.
