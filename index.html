@@ -57,7 +57,18 @@ function card(p,terms){
   return `<div class="p" id="p-${p.no}"><h3><span class="no">Pasal ${p.no}</span>${fmt(p.judul,terms)}</h3><div class="isi">${fmt(p.isi,terms)}</div></div>`;
 }
 function search(q){
-  const toks=q.toLowerCase().split(/[^a-z0-9+.]+/).filter(t=>t&&!STOP.has(t));
+  const ql=q.toLowerCase();
+  const nums=ql.match(/\d+\.\d+/g)||[];
+  const grp=(ql.match(/pasal\s*(\d+)(?![\d.])/)||ql.match(/^\s*(\d+)\s*$/)||[])[1];
+  const toks=ql.replace(/\d+\.\d+/g," ").split(/[^a-z0-9+.]+/).filter(t=>t&&!STOP.has(t)&&!(grp&&t===grp));
+  if((nums.length||grp)&&!toks.length){
+    const hit=[];
+    for(const b of DATA.bab)for(const p of b.pasal){
+      const n=String(p.no);
+      if(nums.includes(n)||(grp&&n.startsWith(grp+".")))hit.push({p,sc:1});
+    }
+    return {res:hit,terms:[]};
+  }
   if(!toks.length)return null;
   const terms=[...new Set(toks.flatMap(t=>[t,...(SYN[t]||[])]))];
   const res=[];
@@ -70,6 +81,7 @@ function search(q){
       if(H.includes(t))sc+=2*w;
       sc+=Math.min(B.split(t).length-1,6)*w;
     }
+    if(nums.includes(String(p.no)))sc+=1000;
     if(sc>0)res.push({p,sc});
   }
   res.sort((a,b)=>b.sc-a.sc);
