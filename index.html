@@ -85,7 +85,7 @@ function render(){
   info.textContent=`${DATA.versi} · ${n} pasal`;
   out.innerHTML=DATA.bab.map(b=>`<div class="bab">${esc(b.judul)}</div>`+b.pasal.map(p=>card(p,[])).join("")).join("");
 }
-sed -i 's#fetch("/api/kuc")#fetch("kuc.json")#' index.html
+fetch("kuc.json").then(r=>r.json()).then(d=>{
   DATA=d;
   document.getElementById("judul").textContent="KITAB UNDANG-UNDANG CELESTIA · "+d.versi;
   document.getElementById("q").addEventListener("input",render);
