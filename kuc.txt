@@ -97,7 +97,7 @@ Kick oleh K.V.A bersifat sementara sampai PLHK memutuskan. Jika pelaku *tidak be
 2. *Nama:* nama tokoh atau nama panggilan warga.
 3. *Jenis Kelamin:* Laki-Laki atau Perempuan, sesuai identitas tokoh.
 4. *No. HP Terdaftar:* nomor handphone warga yang terhubung dengan data TKC. Jika memiliki lebih dari satu nomor, seluruhnya dicantumkan.
-5. *Status:* *Warga* (pemegang TKC sah), *Warga Kehormatan* (ditetapkan petinggi karena jasanya), *Petinggi* (jajaran PLHK dan K.V.A), atau *Astro-Imperator* (Owner Celestia).
+5. *Status:* *Warga* (pemegang TKC sah), *Warga Kehormatan* (ditetapkan petinggi karena jasanya), *Petinggi* (jajaran PLHK dan K.V.A).
 6. *Jabatan:* jabatan resmi warga (misalnya Hakim Pusat), atau tanda strip (-) jika tidak menjabat.
 7. *Afiliasi:* PLHK, K.V.A, komunitas hasil Inkubasi Aspirasi Warga, atau Independen.
 8. *Masa Berlaku:* selama kewarganegaraan tidak dicabut.
