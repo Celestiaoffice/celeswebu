@@ -100,10 +100,9 @@ Kick oleh K.V.A bersifat sementara sampai PLHK memutuskan. Jika pelaku *tidak be
 5. *Status:* *Warga* (pemegang TKC sah), *Warga Kehormatan* (ditetapkan petinggi karena jasanya), *Petinggi* (jajaran PLHK dan K.V.A), atau *Astro-Imperator* (Owner Celestia).
 6. *Jabatan:* jabatan resmi warga (misalnya Hakim Pusat), atau tanda strip (-) jika tidak menjabat.
 7. *Afiliasi:* PLHK, K.V.A, komunitas hasil Inkubasi Aspirasi Warga, atau Independen.
-8. *Tanggal Terbit:* tanggal TKC diberikan.
-9. *Masa Berlaku:* selama kewarganegaraan tidak dicabut.
-10. *Diterbitkan Oleh:* pejabat atau lembaga penerbit.
-11. *Kode QR:* tanda keaslian yang terhubung dengan data negara.
+8. *Masa Berlaku:* selama kewarganegaraan tidak dicabut.
+9. *Diterbitkan Oleh:* pejabat atau lembaga penerbit.
+10. *Kode QR:* tanda keaslian yang terhubung dengan data negara.
 
 *Pasal 7.4 (Tanggung Jawab Pemegang TKC):* Pemegang TKC bertanggung jawab atas penyimpanan dan penyebaran TKC miliknya. Kerugian akibat TKC yang disebarkan sendiri oleh pemegangnya menjadi tanggung jawab pemegang, tanpa mengurangi sanksi bagi pelaku peniruan (Pasal 4.1). TKC dicabut apabila pemegangnya dijatuhi sanksi Tingkat 3.
 
